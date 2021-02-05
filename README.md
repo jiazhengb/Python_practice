@@ -1,1 +1,3 @@
-# Python_practice
+# Python Practice
+
+Author: Jiazheng Bian
